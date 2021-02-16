@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "453124677957",
+    "firebase_url": "https://paprikapp-new-default-rtdb.firebaseio.com",
+    "project_id": "paprikapp-new",
+    "storage_bucket": "paprikapp-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453124677957:android:e17202e3a74e18ec721e2c",
+        "android_client_info": {
+          "package_name": "com.example.paprikapp_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453124677957-ak1l08tvbh15h2d7sggirv1co5l6ghhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANG7kdKmeEGk5d7VG8dcgTgOFFBdUsfsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453124677957-ak1l08tvbh15h2d7sggirv1co5l6ghhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
